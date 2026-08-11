@@ -24,6 +24,7 @@ Ship a playable multiplayer vertical slice that validates demand for this fantas
   - Programmers
   - Designers
   - Artists
+- Core-loop pillars (Build, Fly, Fight, Loot) are ticket buckets for work, not named owner seats
 - No employment or equity is implied by contributing
 
 ## Stack

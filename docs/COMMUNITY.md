@@ -17,7 +17,7 @@ Anyone who still longs for an Anthem-like experience. No industry politics. If y
 ## Where
 
 - GitHub: https://github.com/MrJDR/SAST
-- Discord: Coming soon
+- Discord: https://discord.gg/xutWvJR3n
 - Public updates and playable builds when ready
 
 ## When
@@ -57,6 +57,7 @@ Together progressively. Tell us what scratched the itch. Tell us what did not. S
 - Claim a backlog ticket with clear acceptance criteria
 - Help with Unity gameplay, tools, QA automation, build pipeline, or documentation
 - Improve the core loop: Build > Fly > Fight > Loot
+- Do not submit AI-generated code or AI-generated art/audio assets (full rule in the contributor docs)
 - Submitted work is acknowledged in contribution history (pull requests / commits)
 - Accepted work is credited in the project credits
 - Contributors may use their own submitted and accepted work in their portfolio
